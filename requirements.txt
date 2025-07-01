@@ -2,4 +2,6 @@ fastapi
 uvicorn
 sqlalchemy
 psycopg2-binary
+python-jose[cryptography] 
+passlib[bcrypt]
 # pip install -r requirements.txt
